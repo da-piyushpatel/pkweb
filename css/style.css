@@ -641,10 +641,11 @@ ul {
 
 /* line 10, E:/168 Daren Blog/168_Daren_Blog_html/sass/_blog.scss */
 .blog_area a {
-  color: #666666 !important;
+  /* color: #666666 !important; */
   text-decoration: none;
   -webkit-transition: 0.5s;
   transition: 0.5s;
+  text-decoration: underline;
 }
 
 /* line 16, E:/168 Daren Blog/168_Daren_Blog_html/sass/_blog.scss */
